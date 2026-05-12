@@ -1,4 +1,4 @@
-# 
+# secure Obsidian for Windows Script | OCR-support + custom-themes is the best Obsidian for Windows script, featuring OCR-support and custom-themes. Powerful, efficient, and
 
 
 
